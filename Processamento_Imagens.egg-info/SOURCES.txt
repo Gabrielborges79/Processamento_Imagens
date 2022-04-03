@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+Processamento_Imagens.egg-info/PKG-INFO
+Processamento_Imagens.egg-info/SOURCES.txt
+Processamento_Imagens.egg-info/dependency_links.txt
+Processamento_Imagens.egg-info/requires.txt
+Processamento_Imagens.egg-info/top_level.txt
+image_processing-test/__init__.py
+image_processing-test/processing/__init__.py
+image_processing-test/processing/combination.py
+image_processing-test/processing/transformation.py
+image_processing-test/utils/__init__.py
+image_processing-test/utils/io.py
+image_processing-test/utils/plot.py
